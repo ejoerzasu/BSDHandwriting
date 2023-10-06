@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+#Borrowed mostly from StackOverflow user Alex W. Modified by Ethan Joerz
+
 import pytesseract
 import cv2
 from pytesseract import Output
